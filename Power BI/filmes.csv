@@ -1,0 +1,186 @@
+ID,Filme,Tipo,Gênero,Ano Lançamento,Classificação,Disponível
+61,Interestelar,DVD,Ficção Científica/Aventura,2014,PG-13,Sim
+62,Pantera Negra,Blu-ray,Ação/Aventura,2018,PG-13,Sim
+63,Shang-Chi e a Lenda dos Dez Anéis,Blu-ray,Ação/Aventura,2021,PG-13,Sim
+64,Viúva Negra,Blu-ray,Ação/Aventura,2021,PG-13,Sim
+65,Fúria Incontrolável,Blu-ray,Ação/Thriller,2021,R,Sim
+66,Um Lugar Silencioso - Parte II,Blu-ray,Terror/Thriller,2021,PG-13,Sim
+67,A Noite do Jogo,Blu-ray,Comédia/Crime,2018,R,Sim
+68,Space Jam: Um Novo Legado,Blu-ray,Animação/Aventura,2021,PG,Sim
+69,A Origem,DVD,Ficção Científica/Thriller,2010,PG-13,Sim
+70,Homem-Aranha: No Aranhaverso,Blu-ray,Animação/Ação,2018,PG,Sim
+71,Pets - A Vida Secreta dos Bichos,Blu-ray,Animação/Comédia,2016,Livre,Sim
+72,As Panteras,Blu-ray,Ação/Comédia,2019,PG-13,Sim
+73,Godzilla vs. Kong,Blu-ray,Ficção Científica/Ação,2021,PG-13,Sim
+74,Trolls World Tour,Blu-ray,Animação/Musical,2020,Livre,Sim
+75,Jojo Rabbit,DVD,Comédia/Drama,2019,PG-13,Sim
+76,Mulher-Maravilha 1984,Blu-ray,Ação/Aventura,2020,PG-13,Sim
+77,Harry Potter e o Cálice de Fogo,DVD,Fantasia/Aventura,2005,PG-13,Sim
+78,Senhor dos Anéis: A Sociedade do Anel,DVD,Aventura/Fantasia,2001,12+,Sim
+79,Um Sonho de Liberdade,DVD,Drama/Crime,1994,16+,Sim
+80,O Show de Truman,DVD,Drama/Comédia,1998,PG,Sim
+81,Matrix Revolutions,Blu-ray,Ação/Ficção Científica,2003,14+,Sim
+82,Senhor dos Anéis: As Duas Torres,Blu-ray,Aventura/Fantasia,2002,12+,Sim
+83,Interestelar,Blu-ray,Ficção Científica/Aventura,2014,PG-13,Sim
+84,O Poderoso Chefão: Parte II,Blu-ray,Drama/Crime,1974,R,Sim
+85,Guardiões da Galáxia Vol. 2,DVD,Ação/Ficção Científica,2017,PG-13,Sim
+86,Rei Arthur: A Lenda da Espada,Blu-ray,Ação/Aventura,2017,PG-13,Sim
+87,Bacurau,Blu-ray,Western/Ficção Científica,2019,18+,Sim
+88,Estrada Perdida,Blu-ray,Drama/Crime,1997,R,Sim
+89,Clube da Luta,DVD,Drama/Thriller,1999,R,Sim
+90,Filadélfia,DVD,Drama,1993,PG-13,Sim
+91,Beleza Americana,Blu-ray,Drama/Comédia,1999,R,Sim
+92,A Vida é Bela,DVD,Drama/Comédia,1997,PG-13,Sim
+93,O Fabuloso Destino de Amélie Poulain,DVD,Comédia/Drama,2001,R,Sim
+94,Psicose,DVD,Terror/Thriller,1960,R,Sim
+95,Alice no País das Maravilhas,DVD,Fantasia/Aventura,2010,PG,Sim
+96,A Chegada,DVD,Ficção Científica/Drama,2016,PG-13,Sim
+97,Os Oito Odiados,DVD,Western/Drama,2015,R,Sim
+98,Gladiador,Blu-ray,Ação/Drama,2000,R,Sim
+99,Clube dos Cinco,DVD,Drama/Comédia,1985,R,Sim
+100,Pulp Fiction,Blu-ray,Drama/Crime,1994,18+,Sim
+101,Casablanca,Blu-ray,Drama/Romance,1942,PG,Sim
+102,Os Bons Companheiros,Blu-ray,Drama/Crime,1990,R,Sim
+103,Silêncio dos Inocentes,Blu-ray,Drama/Crime,1991,R,Sim
+104,Laranja Mecânica,Blu-ray,Ficção Científica/Crime,1971,R,Sim
+105,Psicopata Americano,DVD,Drama/Crime,2000,R,Sim
+106,Piratas do Caribe: A Maldição do Pérola Negra,DVD,Aventura/Ação,2003,PG-13,Sim
+107,Esqueceram de Mim,DVD,Comédia/Família,1990,PG,Sim
+108,Quero Ser John Malkovich,DVD,Comédia/Drama,1999,R,Sim
+109,Interestelar,DVD,Ficção Científica/Aventura,2014,PG-13,Sim
+110,O Iluminado,Blu-ray,Terror/Drama,1980,R,Sim
+111,Scarface,DVD,Drama/Crime,1983,R,Sim
+112,De Volta para o Futuro Parte II,Blu-ray,Ficção Científica/Aventura,1989,PG,Sim
+113,De Volta para o Futuro Parte III,DVD,Ficção Científica/Aventura,1990,PG,Sim
+114,Tubarão,Blu-ray/Tira-dúvidas/Suspense,1975,PG,Sim
+115,O Poderoso Chefão,Blu-ray/Drama/Crime,1972,R,Sim
+116,Clube da Luta,Blu-ray/Drama/Thriller,1999,R,Sim
+117,Pantera Negra,Blu-ray/Ação/Aventura,2018,PG-13,Sim
+118,Casablanca,DVD/Drama/Romance,1942,PG,Sim
+119,Senhor dos Anéis: O Retorno do Rei,Blu-ray/Aventura/Fantasia,2003,12+,Sim
+120,Matrix,DVD/Ficção Científica/Ação,1999,R,Sim
+121,Pulp Fiction,Blu-ray/Drama/Crime,1994,18+,Sim
+122,O Fabuloso Destino de Amélie Poulain,Blu-ray/Comédia/Drama,2001,R,Sim
+123,A Vida é Bela,DVD/Drama/Comédia,1997,PG-13,Sim
+124,Gladiador,Blu-ray/Ação/Drama,2000,R,Sim
+125,Parasita,Blu-ray/Comédia/Drama,2019,R,Sim
+126,Laranja Mecânica,DVD/Ficção Científica/Crime,1971,R,Sim
+127,O Silêncio dos Inocentes,DVD/Drama/Crime,1991,R,Sim
+128,O Senhor dos Anéis: As Duas Torres,Blu-ray/Aventura/Fantasia,2002,12+,Sim
+129,Senhor dos Anéis: A Sociedade do Anel,Blu-ray/Aventura/Fantasia,2001,12+,Sim
+130,Clube dos Cinco,Blu-ray/Drama/Comédia,1985,R,Sim
+131,O Show de Truman,DVD/Drama/Comédia,1998,PG,Sim
+132,Faça a Coisa Certa,DVD/Drama,1989,R,Sim
+133,Matrix Revolutions,Blu-ray/Ação/Ficção Científica,2003,14+,Sim
+134,Psicose,Blu-ray/Terror/Thriller,1960,R,Sim
+135,Star Wars: Episódio IV - Uma Nova Esperança,Blu-ray/Ficção Científica/Aventura,1977,PG,Sim
+136,Interestelar,Blu-ray/Ficção Científica/Aventura,2014,PG-13,Sim
+137,Pets - A Vida Secreta dos Bichos,Blu-ray/Animação/Comédia,2016,Livre,Sim
+138,Jojo Rabbit,DVD/Comédia/Drama,2019,PG-13,Sim
+139,Psicopata Americano,Blu-ray/Drama/Crime,2000,R,Sim
+140,O Rei Leão,Blu-ray/Animação/Aventura,1994,Livre,Sim
+141,Piratas do Caribe: No Fim do Mundo,Blu-ray/Aventura/Ação,2007,PG-13,Sim
+142,Star Wars: Episódio V - O Império Contra-Ataca,Blu-ray/Ficção Científica/Aventura,1980,PG,Sim
+143,A Lenda do Cavaleiro Sem Cabeça,DVD/Terror/Fantasia,1999,R,Sim
+144,Os Incríveis,Blu-ray/Animação/Ação,2004,PG,Sim
+145,Um Estranho no Ninho,DVD/Drama,1975,R,Sim
+146,Floresta Maldita,DVD/Terror/Thriller,2016,PG-13,Sim
+147,Forrest Gump: O Contador de Histórias,DVD/Drama/Comédia,1994,PG-13,Sim
+148,Esqueceram de Mim 2 - Perdido em Nova York,DVD/Comédia/Família,1992,PG,Sim
+149,Quero Ser John Malkovich,DVD/Comédia/Drama,1999,R,Sim
+150,Matrix Reloaded,Blu-ray/Ação/Ficção Científica,2003,14+,Sim
+151,Clube dos Pilantras,DVD/Comédia,1978,R,Sim
+152,Tubarão 2,Blu-ray/Aventura/Terror,1978,PG,Sim
+153,Spartacus,DVD/Drama/Ação,1960,PG-13,Sim
+154,O Poderoso Chefão: Parte III,Blu-ray/Drama/Crime,1990,R,Sim
+155,A Guerra dos Tronos - Temporada 1,Blu-ray/Fantasia/Ação,2011,18+,Sim
+156,Toy Story,Blu-ray/Animação/Aventura,1995,Livre,Sim
+157,Procurando Nemo,Blu-ray/Animação/Aventura,2003,Livre,Sim
+158,O Senhor dos Anéis: A Sociedade do Anel,Blu-ray/Aventura/Fantasia,2001,12+,Sim
+159,Clube da Luta,Blu-ray/Drama/Thriller,1999,R,Sim
+160,Bastardos Inglórios,Blu-ray/Drama/Ação,2009,R,Sim
+161,Parasita,Blu-ray/Comédia/Drama,2019,R,Sim
+162,Laranja Mecânica,DVD/Ficção Científica/Crime,1971,R,Sim
+163,Os Bons Companheiros,Blu-ray/Drama/Crime,1990,R,Sim
+164,Matrix Revolutions,Blu-ray/Ação/Ficção Científica,2003,14+,Sim
+165,Psicose,Blu-ray/Terror/Thriller,1960,R,Sim
+166,Star Wars: Episódio VI - O Retorno do Jedi,Blu-ray/Ficção Científica/Aventura,1983,PG,Sim
+167,Casablanca,Blu-ray/Drama/Romance,1942,PG,Sim
+168,Scarface,DVD/Drama/Crime,1983,R,Sim
+169,O Senhor dos Anéis: As Duas Torres,Blu-ray/Aventura/Fantasia,2002,12+,Sim
+170,Interestelar,Blu-ray/Ficção Científica/Aventura,2014,PG-13,Sim
+171,Piratas do Caribe: O Baú da Morte,Blu-ray/Aventura/Ação,2006,PG-13,Sim
+172,Indiana Jones e os Caçadores da Arca Perdida,DVD/Aventura/Ação,1981,PG,Sim
+173,Star Wars: Episódio III - A Vingança dos Sith,Blu-ray/Ficção Científica/Aventura,2005,PG-13,Sim
+174,Os Caça-Fantasmas,DVD/Comédia/Ficção Científica,1984,PG,Sim
+175,Psicopata Americano,DVD/Drama/Crime,2000,R,Sim
+176,Clube da Luta,Blu-ray/Drama/Thriller,1999,R,Sim
+177,De Volta para o Futuro,Blu-ray/Ficção Científica/Aventura,1985,PG,Sim
+178,O Senhor dos Anéis: O Retorno do Rei,Blu-ray/Aventura/Fantasia,2003,12+,Sim
+179,Matrix,DVD/Ficção Científica/Ação,1999,R,Sim
+180,Casablanca,Blu-ray/Drama/Romance,1942,PG,Sim
+181,Laranja Mecânica,DVD/Ficção Científica/Crime,1971,R,Sim
+182,Interestelar,Blu-ray/Ficção Científica/Aventura,2014,PG-13,Sim
+183,Psicose,Blu-ray/Terror/Thriller,1960,R,Sim
+184,Spartacus,DVD/Drama/Ação,1960,PG-13,Sim
+185,Gladiador,Blu-ray/Ação/Drama,2000,R,Sim
+186,O Poderoso Chefão,Blu-ray/Drama/Crime,1972,R,Sim
+187,A Lenda do Cavaleiro Sem Cabeça,DVD/Terror/Fantasia,1999,R,Sim
+188,Procurando Nemo,Blu-ray/Animação/Aventura,2003,Livre,Sim
+189,O Iluminado,Blu-ray/Terror/Drama,1980,R,Sim
+190,Forrest Gump: O Contador de Histórias,DVD/Drama/Comédia,1994,PG-13,Sim
+191,Esqueceram de Mim 2 - Perdido em Nova York,DVD/Comédia/Família,1992,PG,Sim
+192,Quero Ser John Malkovich,DVD/Comédia/Drama,1999,R,Sim
+193,O Senhor dos Anéis: As Duas Torres,Blu-ray/Aventura/Fantasia,2002,12+,Sim
+194,Tubarão 2,Blu-ray/Aventura/Terror,1978,PG,Sim
+195,Um Estranho no Ninho,DVD/Drama,1975,R,Sim
+196,Piratas do Caribe: No Fim do Mundo,Blu-ray/Aventura/Ação,2007,PG-13,Sim
+197,O Rei Leão,Blu-ray/Animação/Aventura,1994,Livre,Sim
+198,Indiana Jones e o Templo da Perdição,DVD/Aventura/Ação,1984,PG,Sim
+199,Bastardos Inglórios,Blu-ray/Drama/Ação,2009,R,Sim
+200,Floresta Maldita,DVD/Terror/Thriller,2016,PG-13,Sim
+201,O Silêncio dos Inocentes,DVD/Drama/Crime,1991,R,Sim
+202,Senhor dos Anéis: O Retorno do Rei,Blu-ray/Aventura/Fantasia,2003,12+,Sim
+203,Matrix,DVD/Ficção Científica/Ação,1999,R,Sim
+204,Interestelar,Blu-ray/Ficção Científica/Aventura,2014,PG-13,Sim
+205,Psicose,Blu-ray/Terror/Thriller,1960,R,Sim
+206,O Senhor dos Anéis: As Duas Torres,Blu-ray/Aventura/Fantasia,2002,12+,Sim
+207,Piratas do Caribe: O Baú da Morte,Blu-ray/Aventura/Ação,2006,PG-13,Sim
+208,Indiana Jones e os Caçadores da Arca Perdida,DVD/Aventura/Ação,1981,PG,Sim
+209,Star Wars: Episódio III - A Vingança dos Sith,Blu-ray/Ficção Científica/Aventura,2005,PG-13,Sim
+210,Os Caça-Fantasmas,DVD/Comédia/Ficção Científica,1984,PG,Sim
+211,Psicopata Americano,DVD/Drama/Crime,2000,R,Sim
+212,Clube da Luta,Blu-ray/Drama/Thriller,1999,R,Sim
+213,De Volta para o Futuro,Blu-ray/Ficção Científica/Aventura,1985,PG,Sim
+214,O Senhor dos Anéis: O Retorno do Rei,Blu-ray/Aventura/Fantasia,2003,12+,Sim
+215,Matrix,DVD/Ficção Científica/Ação,1999,R,Sim
+216,Casablanca,Blu-ray/Drama/Romance,1942,PG,Sim
+217,Laranja Mecânica,DVD/Ficção Científica/Crime,1971,R,Sim
+218,Interestelar,Blu-ray/Ficção Científica/Aventura,2014,PG-13,Sim
+219,Psicose,Blu-ray/Terror/Thriller,1960,R,Sim
+220,Spartacus,DVD/Drama/Ação,1960,PG-13,Sim
+221,Gladiador,Blu-ray/Ação/Drama,2000,R,Sim
+222,O Poderoso Chefão,Blu-ray/Drama/Crime,1972,R,Sim
+223,A Lenda do Cavaleiro Sem Cabeça,DVD/Terror/Fantasia,1999,R,Sim
+224,Procurando Nemo,Blu-ray/Animação/Aventura,2003,Livre,Sim
+225,Forrest Gump: O Contador de Histórias,DVD/Drama/Comédia,1994,PG-13,Sim
+226,Esqueceram de Mim 2 - Perdido em Nova York,DVD/Comédia/Família,1992,PG,Sim
+227,Quero Ser John Malkovich,DVD/Comédia/Drama,1999,R,Sim
+228,O Senhor dos Anéis: As Duas Torres,Blu-ray/Aventura/Fantasia,2002,12+,Sim
+229,Tubarão 2,Blu-ray/Aventura/Terror,1978,PG,Sim
+230,Um Estranho no Ninho,DVD/Drama,1975,R,Sim
+231,Piratas do Caribe: No Fim do Mundo,Blu-ray/Aventura/Ação,2007,PG-13,Sim
+232,O Rei Leão,Blu-ray/Animação/Aventura,1994,Livre,Sim
+233,Indiana Jones e o Templo da Perdição,DVD/Aventura/Ação,1984,PG,Sim
+234,Bastardos Inglórios,Blu-ray/Drama/Ação,2009,R,Sim
+235,Floresta Maldita,DVD/Terror/Thriller,2016,PG-13,Sim
+236,O Silêncio dos Inocentes,DVD/Drama/Crime,1991,R,Sim
+237,Senhor dos Anéis: O Retorno do Rei,Blu-ray/Aventura/Fantasia,2003,12+,Sim
+238,Matrix,DVD/Ficção Científica/Ação,1999,R,Sim
+239,Interestelar,Blu-ray/Ficção Científica/Aventura,2014,PG-13,Sim
+240,Psicose,Blu-ray/Terror/Thriller,1960,R,Sim
+241,O Senhor dos Anéis: As Duas Torres,Blu-ray/Aventura/Fantasia,2002,12+,Sim
+242,Piratas do Caribe: O Baú da Morte,Blu-ray/Aventura/Ação,2006,PG-13,Sim
+243,Indiana Jones e os Caçadores da Arca Perdida,DVD/Aventura/Ação,1981,PG,Sim
+244,Star Wars: Episódio III - A Vingança dos Sith,Blu-ray/Ficção Científica/Aventura,2005,PG-13,Sim
+245,Os Caça-Fantasmas,DVD/Comédia/Ficção Científica,1984,PG,Sim
